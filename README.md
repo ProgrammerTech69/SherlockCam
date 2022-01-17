@@ -10,3 +10,13 @@ Open a camera Wirelessly with the Help Of A Link
 
 [See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 <p> To convince the target to grant permissions to access the cam, the page uses a javascript code made by https://github.com/wybiral that turns the favicon into a cam stream.</p>
+
+
+
+## Installing (Kali Linux/Termux):
+
+```
+git clone https://github.com/thelinuxchoice/saycheese
+cd saycheese
+bash saycheese
+```
