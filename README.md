@@ -14,11 +14,19 @@ Open a camera Wirelessly with the Help Of A Link
 
 
 ## Installing (Kali Linux/Termux):
-
+Always Use NGROK
 ```
 git clone https://github.com/ThatDev69/SherlockCam
 cd SherlockCam
 bash SherlockCam.sh
 ```
+##Getting The Link:
+
+If After All the steps No Link Shows
+Open A New Terminal And Type In 
+```
+./ngrok http 3333
+```
+After That You Should See a link 
 
 Made By ThatDev69 Aka Nuri
