@@ -20,7 +20,7 @@ git clone https://github.com/ThatDev69/SherlockCam
 cd SherlockCam
 bash SherlockCam.sh
 ```
-##Getting The Link:
+## Getting The Link:
 
 If After All the steps No Link Shows
 Open A New Terminal And Type In 
