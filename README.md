@@ -16,7 +16,7 @@ Open a camera Wirelessly with the Help Of A Link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/thelinuxchoice/saycheese
+git clone https://github.com/ThatDev69/SherlockCam
 cd saycheese
 bash saycheese
 ```
