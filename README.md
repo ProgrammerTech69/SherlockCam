@@ -20,3 +20,5 @@ git clone https://github.com/ThatDev69/SherlockCam
 cd SherlockCam
 bash SherlockCam.sh
 ```
+
+Made By ThatDev69 Aka Nuri
