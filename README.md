@@ -17,6 +17,6 @@ Open a camera Wirelessly with the Help Of A Link
 
 ```
 git clone https://github.com/ThatDev69/SherlockCam
-cd saycheese
-bash saycheese
+cd SherlockCam
+bash SherlockCam.sh
 ```
