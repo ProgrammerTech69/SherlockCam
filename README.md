@@ -25,7 +25,7 @@ bash SherlockCam.sh
 If After All the steps No Link Shows
 Open A New Terminal And Type In 
 ```
-./ngrok http 3333
+ngrok http 3333
 ```
 After That You Should See a link 
 
