@@ -29,4 +29,4 @@ ngrok http 3333
 ```
 After That You Should See a link 
 
-Made By ThatDev69 Aka Nuri
+Made By ProgrammerTech69 Aka Nuri
