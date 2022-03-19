@@ -15,7 +15,7 @@ printf "\e[1;92m  ___) | | | |  __/| |  | ||(_) ||___ | |\ \ \e[0m\e[1;77m| |___
 printf "\e[1;92m |____/|_| |_|\___||_|  |_|\___/ \___||_| \_\ \e[0m\e[1;77m\____| \__,_| |_| |_| |_| \e[0m\n"
 printf "\e[1;92m                                              \e[0m                                 \n"
 
-printf " \e[1;77m v1.0 coded by github.com/ThatDev69/SherlockCam\e[0m \n"
+printf " \e[1;77m v1.0 coded by github.com/ProgrammerTech69/SherlockCam\e[0m \n"
 
 printf "\n"
 
