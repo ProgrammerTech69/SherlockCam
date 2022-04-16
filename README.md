@@ -16,7 +16,7 @@ Open a camera Wirelessly with the Help Of A Link
 ## Installing (Kali Linux/Termux):
 Always Use NGROK
 ```
-git clone https://github.com/ThatDev69/SherlockCam
+git clone https://github.com/ProgrammerTech69/SherlockCam
 cd SherlockCam
 bash SherlockCam.sh
 ```
